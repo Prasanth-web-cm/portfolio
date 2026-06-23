@@ -19,6 +19,11 @@
     "react-simple-typewriter": "^5.0.1",
     "tailwind-merge": "^2.5.4"
   },
+  "overrides": {
+    "next": {
+      "postcss": "8.5.15"
+    }
+  },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
